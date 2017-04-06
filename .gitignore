@@ -24,4 +24,5 @@ tags
 
 script_files_DE/
 script_files_EN/
+*.output.txt
 
